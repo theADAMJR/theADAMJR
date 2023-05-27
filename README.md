@@ -5,7 +5,7 @@
 
 ## Unity game developer and full-stack web developer.
 
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,net,ts,nodejs,react,angular,bash,mongodb,mysql,aws,redux,docker,python,java,discord,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,net,ts,nodejs,react,angular,bash,mongodb,mysql,aws,redux,docker,python,java)](https://skillicons.dev)
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
